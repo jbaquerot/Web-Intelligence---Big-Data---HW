@@ -1,0 +1,4014 @@
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+INFO:root:hw3data/c0001 closed
+INFO:root:hw3data/p0001 closed
+INFO:root:hw3data/w0001 closed
+INFO:root:hw3data/x000 closed
+INFO:root:hw3data/x0000 closed
+INFO:root:hw3data/x0001 closed
+INFO:root:hw3data/x0002 closed
+INFO:root:hw3data/x0003 closed
+INFO:root:hw3data/x0004 closed
+INFO:root:hw3data/x0005 closed
+INFO:root:hw3data/x0006 closed
+INFO:root:hw3data/x0007 closed
+INFO:root:hw3data/x0008 closed
+INFO:root:hw3data/x0009 closed
+INFO:root:hw3data/x001 closed
+INFO:root:hw3data/x0010 closed
+INFO:root:hw3data/x0011 closed
+INFO:root:hw3data/x0012 closed
+INFO:root:hw3data/x0013 closed
+INFO:root:hw3data/x0014 closed
+INFO:root:hw3data/x0015 closed
+INFO:root:hw3data/x0016 closed
+INFO:root:hw3data/x0017 closed
+INFO:root:hw3data/x0018 closed
+INFO:root:hw3data/x0019 closed
+INFO:root:hw3data/x002 closed
+INFO:root:hw3data/x0020 closed
+INFO:root:hw3data/x0021 closed
+INFO:root:hw3data/x0022 closed
+INFO:root:hw3data/x0023 closed
+INFO:root:hw3data/x0024 closed
+INFO:root:hw3data/x0025 closed
+INFO:root:hw3data/x0026 closed
+INFO:root:hw3data/x0027 closed
+INFO:root:hw3data/x0028 closed
+INFO:root:hw3data/x0029 closed
+INFO:root:hw3data/x003 closed
+INFO:root:hw3data/x0030 closed
+INFO:root:hw3data/x0031 closed
+INFO:root:hw3data/x0032 closed
+INFO:root:hw3data/x0033 closed
+INFO:root:hw3data/x0034 closed
+INFO:root:hw3data/x0035 closed
+INFO:root:hw3data/x0036 closed
+INFO:root:hw3data/x0037 closed
+INFO:root:hw3data/x0038 closed
+INFO:root:hw3data/x0039 closed
+INFO:root:hw3data/x004 closed
+INFO:root:hw3data/x0040 closed
+INFO:root:hw3data/x0041 closed
+INFO:root:hw3data/x0042 closed
+INFO:root:hw3data/x0043 closed
+INFO:root:hw3data/x0044 closed
+INFO:root:hw3data/x0045 closed
+INFO:root:hw3data/x0046 closed
+INFO:root:hw3data/x0047 closed
+INFO:root:hw3data/x0048 closed
+INFO:root:hw3data/x0049 closed
+INFO:root:hw3data/x005 closed
+INFO:root:hw3data/x0050 closed
+INFO:root:hw3data/x0051 closed
+INFO:root:hw3data/x0052 closed
+INFO:root:hw3data/x0053 closed
+INFO:root:hw3data/x0054 closed
+INFO:root:hw3data/x0055 closed
+INFO:root:hw3data/x0056 closed
+INFO:root:hw3data/x0057 closed
+INFO:root:hw3data/x0058 closed
+INFO:root:hw3data/x0059 closed
+INFO:root:hw3data/x006 closed
+INFO:root:hw3data/x0060 closed
+INFO:root:hw3data/x0061 closed
+INFO:root:hw3data/x0062 closed
+INFO:root:hw3data/x0063 closed
+INFO:root:hw3data/x0064 closed
+INFO:root:hw3data/x0065 closed
+INFO:root:hw3data/x0066 closed
+INFO:root:hw3data/x0067 closed
+INFO:root:hw3data/x0068 closed
+INFO:root:hw3data/x0069 closed
+INFO:root:hw3data/x007 closed
+INFO:root:hw3data/x0070 closed
+INFO:root:hw3data/x0071 closed
+INFO:root:hw3data/x0072 closed
+INFO:root:hw3data/x0073 closed
+INFO:root:hw3data/x0074 closed
+INFO:root:hw3data/x0075 closed
+INFO:root:hw3data/x0076 closed
+INFO:root:hw3data/x0077 closed
+INFO:root:hw3data/x0078 closed
+INFO:root:hw3data/x0079 closed
+INFO:root:hw3data/x008 closed
+INFO:root:hw3data/x0080 closed
+INFO:root:hw3data/x0081 closed
+INFO:root:hw3data/x0082 closed
+INFO:root:hw3data/x0083 closed
+INFO:root:hw3data/x0084 closed
+INFO:root:hw3data/x0085 closed
+INFO:root:hw3data/x0086 closed
+INFO:root:hw3data/x0087 closed
+INFO:root:hw3data/x0088 closed
+INFO:root:hw3data/x0089 closed
+INFO:root:hw3data/x009 closed
+INFO:root:hw3data/x0090 closed
+INFO:root:hw3data/x0091 closed
+INFO:root:hw3data/x0092 closed
+INFO:root:hw3data/x0093 closed
+INFO:root:hw3data/x0094 closed
+INFO:root:hw3data/x0095 closed
+INFO:root:hw3data/x0096 closed
+INFO:root:hw3data/x0097 closed
+INFO:root:hw3data/x0098 closed
+INFO:root:hw3data/x0099 closed
+INFO:root:hw3data/x010 closed
+INFO:root:hw3data/x0100 closed
+INFO:root:hw3data/x0101 closed
+INFO:root:hw3data/x0102 closed
+INFO:root:hw3data/x0103 closed
+INFO:root:hw3data/x0104 closed
+INFO:root:hw3data/x0105 closed
+INFO:root:hw3data/x0106 closed
+INFO:root:hw3data/x0107 closed
+INFO:root:hw3data/x0108 closed
+INFO:root:hw3data/x0109 closed
+INFO:root:hw3data/x011 closed
+INFO:root:hw3data/x0110 closed
+INFO:root:hw3data/x0111 closed
+INFO:root:hw3data/x0112 closed
+INFO:root:hw3data/x0113 closed
+INFO:root:hw3data/x0114 closed
+INFO:root:hw3data/x0115 closed
+INFO:root:hw3data/x0116 closed
+INFO:root:hw3data/x0117 closed
+INFO:root:hw3data/x0118 closed
+INFO:root:hw3data/x0119 closed
+INFO:root:hw3data/x012 closed
+INFO:root:hw3data/x0120 closed
+INFO:root:hw3data/x0121 closed
+INFO:root:hw3data/x0122 closed
+INFO:root:hw3data/x0123 closed
+INFO:root:hw3data/x0124 closed
+INFO:root:hw3data/x0125 closed
+INFO:root:hw3data/x0126 closed
+INFO:root:hw3data/x0127 closed
+INFO:root:hw3data/x0128 closed
+INFO:root:hw3data/x0129 closed
+INFO:root:hw3data/x013 closed
+INFO:root:hw3data/x0130 closed
+INFO:root:hw3data/x0131 closed
+INFO:root:hw3data/x0132 closed
+INFO:root:hw3data/x0133 closed
+INFO:root:hw3data/x0134 closed
+INFO:root:hw3data/x0135 closed
+INFO:root:hw3data/x0136 closed
+INFO:root:hw3data/x0137 closed
+INFO:root:hw3data/x0138 closed
+INFO:root:hw3data/x0139 closed
+INFO:root:hw3data/x014 closed
+INFO:root:hw3data/x0140 closed
+INFO:root:hw3data/x0141 closed
+INFO:root:hw3data/x0142 closed
+INFO:root:hw3data/x0143 closed
+INFO:root:hw3data/x0144 closed
+INFO:root:hw3data/x0145 closed
+INFO:root:hw3data/x0146 closed
+INFO:root:hw3data/x0147 closed
+INFO:root:hw3data/x0148 closed
+INFO:root:hw3data/x0149 closed
+INFO:root:hw3data/x015 closed
+INFO:root:hw3data/x0150 closed
+INFO:root:hw3data/x0151 closed
+INFO:root:hw3data/x0152 closed
+INFO:root:hw3data/x0153 closed
+INFO:root:hw3data/x0154 closed
+INFO:root:hw3data/x0155 closed
+INFO:root:hw3data/x016 closed
+INFO:root:hw3data/x017 closed
+INFO:root:hw3data/x018 closed
+INFO:root:hw3data/x019 closed
+INFO:root:hw3data/x020 closed
+INFO:root:hw3data/x021 closed
+INFO:root:hw3data/x022 closed
+INFO:root:hw3data/x023 closed
+INFO:root:hw3data/x024 closed
+INFO:root:hw3data/x025 closed
+INFO:root:hw3data/x026 closed
+INFO:root:hw3data/x027 closed
+INFO:root:hw3data/x028 closed
+INFO:root:hw3data/x029 closed
+INFO:root:hw3data/x030 closed
+INFO:root:hw3data/x031 closed
+INFO:root:hw3data/x032 closed
+INFO:root:hw3data/x033 closed
+INFO:root:hw3data/x034 closed
+INFO:root:hw3data/x035 closed
+INFO:root:hw3data/x036 closed
+INFO:root:hw3data/x037 closed
+INFO:root:hw3data/x038 closed
+INFO:root:hw3data/x039 closed
+INFO:root:hw3data/x040 closed
+INFO:root:hw3data/x041 closed
+INFO:root:hw3data/x042 closed
+INFO:root:hw3data/x043 closed
+INFO:root:hw3data/x044 closed
+INFO:root:hw3data/x045 closed
+INFO:root:hw3data/x046 closed
+INFO:root:hw3data/x047 closed
+INFO:root:hw3data/x048 closed
+INFO:root:hw3data/x049 closed
+INFO:root:hw3data/x050 closed
+INFO:root:hw3data/x051 closed
+INFO:root:hw3data/x052 closed
+INFO:root:hw3data/x053 closed
+INFO:root:hw3data/x054 closed
+INFO:root:hw3data/x055 closed
+INFO:root:hw3data/x056 closed
+INFO:root:hw3data/x057 closed
+INFO:root:hw3data/x058 closed
+INFO:root:hw3data/x059 closed
+INFO:root:hw3data/x060 closed
+INFO:root:hw3data/x061 closed
+INFO:root:hw3data/x062 closed
+INFO:root:hw3data/x063 closed
+INFO:root:hw3data/x064 closed
+INFO:root:hw3data/x065 closed
+INFO:root:hw3data/x066 closed
+INFO:root:hw3data/x067 closed
+INFO:root:hw3data/x068 closed
+INFO:root:hw3data/x069 closed
+INFO:root:hw3data/x070 closed
+INFO:root:hw3data/x071 closed
+INFO:root:hw3data/x072 closed
+INFO:root:hw3data/x073 closed
+INFO:root:hw3data/x074 closed
+INFO:root:hw3data/x075 closed
+INFO:root:hw3data/x076 closed
+INFO:root:hw3data/x077 closed
+INFO:root:hw3data/x078 closed
+INFO:root:hw3data/x079 closed
+INFO:root:hw3data/x080 closed
+INFO:root:hw3data/x081 closed
+INFO:root:hw3data/x082 closed
+INFO:root:hw3data/x083 closed
+INFO:root:hw3data/x084 closed
+INFO:root:hw3data/x085 closed
+INFO:root:hw3data/x086 closed
+INFO:root:hw3data/x087 closed
+INFO:root:hw3data/x088 closed
+INFO:root:hw3data/x089 closed
+INFO:root:Starting
+INFO:root:END
+2012-09-29 08:58:09,777 - log - INFO - hw3data/c0001 closed
+2012-09-29 08:58:09,777 - log - INFO - hw3data/p0001 closed
+2012-09-29 08:58:09,777 - log - INFO - hw3data/w0001 closed
+2012-09-29 08:58:09,777 - log - INFO - hw3data/x000 closed
+2012-09-29 08:58:09,777 - log - INFO - hw3data/x0000 closed
+2012-09-29 08:58:09,777 - log - INFO - hw3data/x0001 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0002 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0003 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0004 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0005 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0006 closed
+2012-09-29 08:58:09,778 - log - INFO - hw3data/x0007 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x0008 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x0009 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x001 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x0010 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x0011 closed
+2012-09-29 08:58:09,779 - log - INFO - hw3data/x0012 closed
+2012-09-29 08:58:09,780 - log - INFO - hw3data/x0013 closed
+2012-09-29 08:58:09,780 - log - INFO - hw3data/x0014 closed
+2012-09-29 08:58:09,780 - log - INFO - hw3data/x0015 closed
+2012-09-29 08:58:09,780 - log - INFO - hw3data/x0016 closed
+2012-09-29 08:58:09,780 - log - INFO - hw3data/x0017 closed
+2012-09-29 08:58:09,781 - log - INFO - hw3data/x0018 closed
+2012-09-29 08:58:09,781 - log - INFO - hw3data/x0019 closed
+2012-09-29 08:58:09,781 - log - INFO - hw3data/x002 closed
+2012-09-29 08:58:09,781 - log - INFO - hw3data/x0020 closed
+2012-09-29 08:58:09,782 - log - INFO - hw3data/x0021 closed
+2012-09-29 08:58:09,782 - log - INFO - hw3data/x0022 closed
+2012-09-29 08:58:09,782 - log - INFO - hw3data/x0023 closed
+2012-09-29 08:58:09,782 - log - INFO - hw3data/x0024 closed
+2012-09-29 08:58:09,783 - log - INFO - hw3data/x0025 closed
+2012-09-29 08:58:09,783 - log - INFO - hw3data/x0026 closed
+2012-09-29 08:58:09,783 - log - INFO - hw3data/x0027 closed
+2012-09-29 08:58:09,783 - log - INFO - hw3data/x0028 closed
+2012-09-29 08:58:09,783 - log - INFO - hw3data/x0029 closed
+2012-09-29 08:58:09,784 - log - INFO - hw3data/x003 closed
+2012-09-29 08:58:09,784 - log - INFO - hw3data/x0030 closed
+2012-09-29 08:58:09,784 - log - INFO - hw3data/x0031 closed
+2012-09-29 08:58:09,784 - log - INFO - hw3data/x0032 closed
+2012-09-29 08:58:09,784 - log - INFO - hw3data/x0033 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0034 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0035 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0036 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0037 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0038 closed
+2012-09-29 08:58:09,785 - log - INFO - hw3data/x0039 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x004 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x0040 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x0041 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x0042 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x0043 closed
+2012-09-29 08:58:09,786 - log - INFO - hw3data/x0044 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x0045 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x0046 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x0047 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x0048 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x0049 closed
+2012-09-29 08:58:09,787 - log - INFO - hw3data/x005 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0050 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0051 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0052 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0053 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0054 closed
+2012-09-29 08:58:09,788 - log - INFO - hw3data/x0055 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x0056 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x0057 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x0058 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x0059 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x006 closed
+2012-09-29 08:58:09,789 - log - INFO - hw3data/x0060 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0061 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0062 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0063 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0064 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0065 closed
+2012-09-29 08:58:09,790 - log - INFO - hw3data/x0066 closed
+2012-09-29 08:58:09,791 - log - INFO - hw3data/x0067 closed
+2012-09-29 08:58:09,791 - log - INFO - hw3data/x0068 closed
+2012-09-29 08:58:09,791 - log - INFO - hw3data/x0069 closed
+2012-09-29 08:58:09,791 - log - INFO - hw3data/x007 closed
+2012-09-29 08:58:09,791 - log - INFO - hw3data/x0070 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0071 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0072 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0073 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0074 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0075 closed
+2012-09-29 08:58:09,792 - log - INFO - hw3data/x0076 closed
+2012-09-29 08:58:09,793 - log - INFO - hw3data/x0077 closed
+2012-09-29 08:58:09,793 - log - INFO - hw3data/x0078 closed
+2012-09-29 08:58:09,793 - log - INFO - hw3data/x0079 closed
+2012-09-29 08:58:09,793 - log - INFO - hw3data/x008 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0080 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0081 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0082 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0083 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0084 closed
+2012-09-29 08:58:09,794 - log - INFO - hw3data/x0085 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x0086 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x0087 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x0088 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x0089 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x009 closed
+2012-09-29 08:58:09,795 - log - INFO - hw3data/x0090 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0091 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0092 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0093 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0094 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0095 closed
+2012-09-29 08:58:09,796 - log - INFO - hw3data/x0096 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x0097 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x0098 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x0099 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x010 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x0100 closed
+2012-09-29 08:58:09,797 - log - INFO - hw3data/x0101 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0102 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0103 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0104 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0105 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0106 closed
+2012-09-29 08:58:09,798 - log - INFO - hw3data/x0107 closed
+2012-09-29 08:58:09,799 - log - INFO - hw3data/x0108 closed
+2012-09-29 08:58:09,799 - log - INFO - hw3data/x0109 closed
+2012-09-29 08:58:09,799 - log - INFO - hw3data/x011 closed
+2012-09-29 08:58:09,799 - log - INFO - hw3data/x0110 closed
+2012-09-29 08:58:09,799 - log - INFO - hw3data/x0111 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0112 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0113 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0114 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0115 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0116 closed
+2012-09-29 08:58:09,800 - log - INFO - hw3data/x0117 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x0118 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x0119 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x012 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x0120 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x0121 closed
+2012-09-29 08:58:09,801 - log - INFO - hw3data/x0122 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0123 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0124 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0125 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0126 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0127 closed
+2012-09-29 08:58:09,802 - log - INFO - hw3data/x0128 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x0129 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x013 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x0130 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x0131 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x0132 closed
+2012-09-29 08:58:09,803 - log - INFO - hw3data/x0133 closed
+2012-09-29 08:58:09,804 - log - INFO - hw3data/x0134 closed
+2012-09-29 08:58:09,804 - log - INFO - hw3data/x0135 closed
+2012-09-29 08:58:09,804 - log - INFO - hw3data/x0136 closed
+2012-09-29 08:58:09,804 - log - INFO - hw3data/x0137 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x0138 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x0139 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x014 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x0140 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x0141 closed
+2012-09-29 08:58:09,805 - log - INFO - hw3data/x0142 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0143 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0144 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0145 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0146 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0147 closed
+2012-09-29 08:58:09,806 - log - INFO - hw3data/x0148 closed
+2012-09-29 08:58:09,807 - log - INFO - hw3data/x0149 closed
+2012-09-29 08:58:09,807 - log - INFO - hw3data/x015 closed
+2012-09-29 08:58:09,807 - log - INFO - hw3data/x0150 closed
+2012-09-29 08:58:09,807 - log - INFO - hw3data/x0151 closed
+2012-09-29 08:58:09,807 - log - INFO - hw3data/x0152 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x0153 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x0154 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x0155 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x016 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x017 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x018 closed
+2012-09-29 08:58:09,808 - log - INFO - hw3data/x019 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x020 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x021 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x022 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x023 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x024 closed
+2012-09-29 08:58:09,809 - log - INFO - hw3data/x025 closed
+2012-09-29 08:58:09,810 - log - INFO - hw3data/x026 closed
+2012-09-29 08:58:09,810 - log - INFO - hw3data/x027 closed
+2012-09-29 08:58:09,810 - log - INFO - hw3data/x028 closed
+2012-09-29 08:58:09,810 - log - INFO - hw3data/x029 closed
+2012-09-29 08:58:09,810 - log - INFO - hw3data/x030 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x031 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x032 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x033 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x034 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x035 closed
+2012-09-29 08:58:09,811 - log - INFO - hw3data/x036 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x037 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x038 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x039 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x040 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x041 closed
+2012-09-29 08:58:09,812 - log - INFO - hw3data/x042 closed
+2012-09-29 08:58:09,813 - log - INFO - hw3data/x043 closed
+2012-09-29 08:58:09,813 - log - INFO - hw3data/x044 closed
+2012-09-29 08:58:09,813 - log - INFO - hw3data/x045 closed
+2012-09-29 08:58:09,813 - log - INFO - hw3data/x046 closed
+2012-09-29 08:58:09,813 - log - INFO - hw3data/x047 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x048 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x049 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x050 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x051 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x052 closed
+2012-09-29 08:58:09,814 - log - INFO - hw3data/x053 closed
+2012-09-29 08:58:09,815 - log - INFO - hw3data/x054 closed
+2012-09-29 08:58:09,815 - log - INFO - hw3data/x055 closed
+2012-09-29 08:58:09,815 - log - INFO - hw3data/x056 closed
+2012-09-29 08:58:09,815 - log - INFO - hw3data/x057 closed
+2012-09-29 08:58:09,815 - log - INFO - hw3data/x058 closed
+2012-09-29 08:58:09,816 - log - INFO - hw3data/x059 closed
+2012-09-29 08:58:09,816 - log - INFO - hw3data/x060 closed
+2012-09-29 08:58:09,816 - log - INFO - hw3data/x061 closed
+2012-09-29 08:58:09,816 - log - INFO - hw3data/x062 closed
+2012-09-29 08:58:09,816 - log - INFO - hw3data/x063 closed
+2012-09-29 08:58:09,817 - log - INFO - hw3data/x064 closed
+2012-09-29 08:58:09,817 - log - INFO - hw3data/x065 closed
+2012-09-29 08:58:09,817 - log - INFO - hw3data/x066 closed
+2012-09-29 08:58:09,817 - log - INFO - hw3data/x067 closed
+2012-09-29 08:58:09,817 - log - INFO - hw3data/x068 closed
+2012-09-29 08:58:09,818 - log - INFO - hw3data/x069 closed
+2012-09-29 08:58:09,818 - log - INFO - hw3data/x070 closed
+2012-09-29 08:58:09,818 - log - INFO - hw3data/x071 closed
+2012-09-29 08:58:09,818 - log - INFO - hw3data/x072 closed
+2012-09-29 08:58:09,818 - log - INFO - hw3data/x073 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x074 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x075 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x076 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x077 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x078 closed
+2012-09-29 08:58:09,819 - log - INFO - hw3data/x079 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x080 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x081 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x082 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x083 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x084 closed
+2012-09-29 08:58:09,820 - log - INFO - hw3data/x085 closed
+2012-09-29 08:58:09,821 - log - INFO - hw3data/x086 closed
+2012-09-29 08:58:09,821 - log - INFO - hw3data/x087 closed
+2012-09-29 08:58:09,821 - log - INFO - hw3data/x088 closed
+2012-09-29 08:58:09,821 - log - INFO - hw3data/x089 closed
+2012-09-29 08:58:09,821 - log - INFO - Starting
+2012-09-29 08:58:09,822 - log - INFO - END
+2012-09-29 08:58:21,191 - log - INFO - hw3data/c0001 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/p0001 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/w0001 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/x000 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/x0000 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/x0001 closed
+2012-09-29 08:58:21,192 - log - INFO - hw3data/x0002 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0003 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0004 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0005 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0006 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0007 closed
+2012-09-29 08:58:21,193 - log - INFO - hw3data/x0008 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x0009 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x001 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x0010 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x0011 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x0012 closed
+2012-09-29 08:58:21,194 - log - INFO - hw3data/x0013 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0014 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0015 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0016 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0017 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0018 closed
+2012-09-29 08:58:21,195 - log - INFO - hw3data/x0019 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x002 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x0020 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x0021 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x0022 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x0023 closed
+2012-09-29 08:58:21,196 - log - INFO - hw3data/x0024 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x0025 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x0026 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x0027 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x0028 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x0029 closed
+2012-09-29 08:58:21,197 - log - INFO - hw3data/x003 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0030 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0031 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0032 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0033 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0034 closed
+2012-09-29 08:58:21,198 - log - INFO - hw3data/x0035 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0036 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0037 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0038 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0039 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x004 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0040 closed
+2012-09-29 08:58:21,199 - log - INFO - hw3data/x0041 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0042 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0043 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0044 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0045 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0046 closed
+2012-09-29 08:58:21,200 - log - INFO - hw3data/x0047 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x0048 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x0049 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x005 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x0050 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x0051 closed
+2012-09-29 08:58:21,201 - log - INFO - hw3data/x0052 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0053 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0054 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0055 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0056 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0057 closed
+2012-09-29 08:58:21,202 - log - INFO - hw3data/x0058 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x0059 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x006 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x0060 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x0061 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x0062 closed
+2012-09-29 08:58:21,203 - log - INFO - hw3data/x0063 closed
+2012-09-29 08:58:21,204 - log - INFO - hw3data/x0064 closed
+2012-09-29 08:58:21,204 - log - INFO - hw3data/x0065 closed
+2012-09-29 08:58:21,204 - log - INFO - hw3data/x0066 closed
+2012-09-29 08:58:21,204 - log - INFO - hw3data/x0067 closed
+2012-09-29 08:58:21,205 - log - INFO - hw3data/x0068 closed
+2012-09-29 08:58:21,205 - log - INFO - hw3data/x0069 closed
+2012-09-29 08:58:21,205 - log - INFO - hw3data/x007 closed
+2012-09-29 08:58:21,205 - log - INFO - hw3data/x0070 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0071 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0072 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0073 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0074 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0075 closed
+2012-09-29 08:58:21,206 - log - INFO - hw3data/x0076 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0077 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0078 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0079 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x008 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0080 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0081 closed
+2012-09-29 08:58:21,207 - log - INFO - hw3data/x0082 closed
+2012-09-29 08:58:21,208 - log - INFO - hw3data/x0083 closed
+2012-09-29 08:58:21,208 - log - INFO - hw3data/x0084 closed
+2012-09-29 08:58:21,208 - log - INFO - hw3data/x0085 closed
+2012-09-29 08:58:21,208 - log - INFO - hw3data/x0086 closed
+2012-09-29 08:58:21,208 - log - INFO - hw3data/x0087 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0088 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0089 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x009 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0090 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0091 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0092 closed
+2012-09-29 08:58:21,209 - log - INFO - hw3data/x0093 closed
+2012-09-29 08:58:21,210 - log - INFO - hw3data/x0094 closed
+2012-09-29 08:58:21,210 - log - INFO - hw3data/x0095 closed
+2012-09-29 08:58:21,210 - log - INFO - hw3data/x0096 closed
+2012-09-29 08:58:21,210 - log - INFO - hw3data/x0097 closed
+2012-09-29 08:58:21,210 - log - INFO - hw3data/x0098 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0099 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x010 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0100 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0101 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0102 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0103 closed
+2012-09-29 08:58:21,211 - log - INFO - hw3data/x0104 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x0105 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x0106 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x0107 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x0108 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x0109 closed
+2012-09-29 08:58:21,212 - log - INFO - hw3data/x011 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0110 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0111 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0112 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0113 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0114 closed
+2012-09-29 08:58:21,213 - log - INFO - hw3data/x0115 closed
+2012-09-29 08:58:21,214 - log - INFO - hw3data/x0116 closed
+2012-09-29 08:58:21,214 - log - INFO - hw3data/x0117 closed
+2012-09-29 08:58:21,214 - log - INFO - hw3data/x0118 closed
+2012-09-29 08:58:21,214 - log - INFO - hw3data/x0119 closed
+2012-09-29 08:58:21,215 - log - INFO - hw3data/x012 closed
+2012-09-29 08:58:21,215 - log - INFO - hw3data/x0120 closed
+2012-09-29 08:58:21,215 - log - INFO - hw3data/x0121 closed
+2012-09-29 08:58:21,215 - log - INFO - hw3data/x0122 closed
+2012-09-29 08:58:21,215 - log - INFO - hw3data/x0123 closed
+2012-09-29 08:58:21,216 - log - INFO - hw3data/x0124 closed
+2012-09-29 08:58:21,216 - log - INFO - hw3data/x0125 closed
+2012-09-29 08:58:21,216 - log - INFO - hw3data/x0126 closed
+2012-09-29 08:58:21,216 - log - INFO - hw3data/x0127 closed
+2012-09-29 08:58:21,216 - log - INFO - hw3data/x0128 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x0129 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x013 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x0130 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x0131 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x0132 closed
+2012-09-29 08:58:21,217 - log - INFO - hw3data/x0133 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0134 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0135 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0136 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0137 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0138 closed
+2012-09-29 08:58:21,218 - log - INFO - hw3data/x0139 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x014 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x0140 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x0141 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x0142 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x0143 closed
+2012-09-29 08:58:21,219 - log - INFO - hw3data/x0144 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0145 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0146 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0147 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0148 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0149 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x015 closed
+2012-09-29 08:58:21,220 - log - INFO - hw3data/x0150 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x0151 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x0152 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x0153 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x0154 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x0155 closed
+2012-09-29 08:58:21,221 - log - INFO - hw3data/x016 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x017 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x018 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x019 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x020 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x021 closed
+2012-09-29 08:58:21,222 - log - INFO - hw3data/x022 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x023 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x024 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x025 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x026 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x027 closed
+2012-09-29 08:58:21,223 - log - INFO - hw3data/x028 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x029 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x030 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x031 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x032 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x033 closed
+2012-09-29 08:58:21,224 - log - INFO - hw3data/x034 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x035 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x036 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x037 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x038 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x039 closed
+2012-09-29 08:58:21,225 - log - INFO - hw3data/x040 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x041 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x042 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x043 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x044 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x045 closed
+2012-09-29 08:58:21,226 - log - INFO - hw3data/x046 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x047 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x048 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x049 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x050 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x051 closed
+2012-09-29 08:58:21,227 - log - INFO - hw3data/x052 closed
+2012-09-29 08:58:21,228 - log - INFO - hw3data/x053 closed
+2012-09-29 08:58:21,228 - log - INFO - hw3data/x054 closed
+2012-09-29 08:58:21,228 - log - INFO - hw3data/x055 closed
+2012-09-29 08:58:21,228 - log - INFO - hw3data/x056 closed
+2012-09-29 08:58:21,228 - log - INFO - hw3data/x057 closed
+2012-09-29 08:58:21,229 - log - INFO - hw3data/x058 closed
+2012-09-29 08:58:21,229 - log - INFO - hw3data/x059 closed
+2012-09-29 08:58:21,229 - log - INFO - hw3data/x060 closed
+2012-09-29 08:58:21,229 - log - INFO - hw3data/x061 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x062 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x063 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x064 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x065 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x066 closed
+2012-09-29 08:58:21,230 - log - INFO - hw3data/x067 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x068 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x069 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x070 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x071 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x072 closed
+2012-09-29 08:58:21,231 - log - INFO - hw3data/x073 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x074 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x075 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x076 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x077 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x078 closed
+2012-09-29 08:58:21,232 - log - INFO - hw3data/x079 closed
+2012-09-29 08:58:21,233 - log - INFO - hw3data/x080 closed
+2012-09-29 08:58:21,233 - log - INFO - hw3data/x081 closed
+2012-09-29 08:58:21,233 - log - INFO - hw3data/x082 closed
+2012-09-29 08:58:21,233 - log - INFO - hw3data/x083 closed
+2012-09-29 08:58:21,233 - log - INFO - hw3data/x084 closed
+2012-09-29 08:58:21,234 - log - INFO - hw3data/x085 closed
+2012-09-29 08:58:21,234 - log - INFO - hw3data/x086 closed
+2012-09-29 08:58:21,234 - log - INFO - hw3data/x087 closed
+2012-09-29 08:58:21,235 - log - INFO - hw3data/x088 closed
+2012-09-29 08:58:21,235 - log - INFO - hw3data/x089 closed
+2012-09-29 08:58:21,235 - log - INFO - Starting
+2012-09-29 08:58:21,235 - log - INFO - END
+2012-09-30 09:06:11,040 - log - INFO - Starting
+2012-09-30 09:06:11,057 - log - INFO - END
+2012-09-30 09:06:18,406 - log - INFO - Starting
+2012-09-30 09:06:18,407 - log - INFO - END
+2012-09-30 09:09:47,725 - log - INFO - Starting
+2012-09-30 09:09:47,725 - log - INFO - END
